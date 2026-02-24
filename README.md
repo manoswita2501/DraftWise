@@ -4,8 +4,6 @@ DraftWise is a structured research companion for CS/IT projects and papers. It h
 
 > **Ethics note (important):** DraftWise is meant to guide and support learning. It does **not** endorse or recommend submitting AI-generated work as your own. Always follow your institution’s academic integrity policies, verify outputs, and write/own your final submission.
 
----
-
 ## Key Features (5 Tabs)
 
 ### 1) Topic Picker:
@@ -31,16 +29,12 @@ DraftWise is a structured research companion for CS/IT projects and papers. It h
 - **Section Analyzer:** paste your draft section text and get mentor/reviewer feedback + rewrite suggestions
 - **Full Paper Analyzer:** upload a paper PDF for a structured breakdown (summary, contributions, assumptions, limitations, reproducibility gaps, replication checklist, reuse ideas)
 
----
-
 ## Tech Stack
 - **Frontend:** Streamlit
 - **LLM:** Google Gemini API (gemini-2.5-flash-lite)
 - **Data/Utilities:** Python, Pandas, NumPy
 - **PDF Parsing:** PyPDF
 - **State:** Session state + Export/Import **Project Pack** (JSON)
-
----
 
 ## Future Improvements I hope to incorporate
 - Stronger PDF handling for scanned papers (OCR)
