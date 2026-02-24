@@ -2,7 +2,7 @@
 
 DraftWise is a structured research companion for CS/IT projects and papers. It helps you move from a rough idea to a workable plan, dataset direction, readable draft sections, and paper/section-level feedback — without feeling overwhelmed.
 
-> **Ethics note (important):** DraftWise is meant to guide and support learning. It does **not** endorse or recommend submitting AI-generated work as your own. Always follow your institution’s academic integrity policies, verify outputs, and write/own your final submission.
+> **Ethics (disclaimer):** DraftWise is meant to guide and support students in their learning journey. It does **not** endorse or recommend submitting AI-generated work as your own. Always follow your institution’s academic integrity policies, verify outputs, and write/own your final submission.
 
 ## Key Features (5 Tabs)
 
